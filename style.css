@@ -106,7 +106,7 @@ body{
 }
 html {
     background-image: url('background.png');
-    background-size:contain;
+    background-size:inherit;
     animation: scroll 175s linear infinite;
 }
 @keyframes comein {
