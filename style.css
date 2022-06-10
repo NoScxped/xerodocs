@@ -19,11 +19,12 @@ p {
     text-align: left;
     font-size: 20.00px;
 }
-.centerparagraph {
+.bigDaddyBox {
     text-align: center;
     box-sizing: border-box;
     margin: auto;
-    width: 40%;
+    width: 1000px;
+    max-width: 90%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 15px;
